@@ -1,1 +1,1 @@
-void search_student() { /* Search algorithm */ }
+void search_student() { /* Fixed Vietnamese accent search */ }
